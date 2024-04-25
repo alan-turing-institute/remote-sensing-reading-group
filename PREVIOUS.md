@@ -4,7 +4,7 @@ This page shows a history of previous sessions in the reading group.
 
 |Date | Topic | Room | Lead |
 | --- | ----- | ---- | ---- |
-| [25/04/24](#250424) | Introduction to the reading group ([Slides](https://docs.google.com/presentation/d/1i56HKtjcdQFTxacxsjgya_giDx8Mv1xZn-IDNc_mK8I/edit?usp=sharing)) | David Blackwell | Thijs van der Plas & Varun Chhabra |
+| [25/04/24](#250424) | Introduction to the reading group ([Slides](https://github.com/alan-turing-institute/remote-sensing-reading-group/blob/main/sessions/1-introduction/2024-04-25%20Intro%20meeting.pdf)) | David Blackwell | Thijs van der Plas & Varun Chhabra |
 # Material for sessions
 
 ## 25/04/24
