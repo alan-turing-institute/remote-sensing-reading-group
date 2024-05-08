@@ -30,5 +30,6 @@ The group meets <b>every other week on Thursdays at 11-12</b> (odd-numbered week
 ### Mission critical: SatML
 
 ---
+All files and materials are licensed under CC BY 4.0, except where any other copyright or license notices are specified for individual files.
 
 This repository was created using the template from the [Turing Foundation Models Reading Group](https://github.com/alan-turing-institute/foundation-models-reading-group). 
