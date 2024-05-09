@@ -15,17 +15,16 @@ The group meets <b>every other week on Thursdays at 11-12</b> (odd-numbered week
 
 |Date | Topic | Room | Lead |
 | --- | ----- | ---- | ---- |
-| [09/05/24](#090524) | The Sentinel Mission: an introduction to optical and radar remote sensing | David Blackwell | Thijs van der Plas & Varun Chhabra  |
-| [23/05/24](#060624) | TBD | David Blackwell | TBD |
-| [06/06/24](#230524) | Paper Overview: Satellite Data is a Distinct Modality in Machine Learning | Mary Shelley | Tom Davies  |
-| [20/06/24](#060624) | TBD | David Blackwell | TBD |
-| [04/07/24](#200624) | TBD | David Blackwell | TBD |
+| [23/05/24](#060624) | Favourite RS tools round-up |  Mary Shelley | Everyone! |
+| [06/06/24](#230524) | Paper Overview: Satellite Data is a Distinct Modality in Machine Learning | David Blackwell | Tom Davies  |
+| [20/06/24](#060624) | TBD | TBD | TBD |
+| [04/07/24](#200624) | TBD | TBD | TBD |
 
 
 # Material for sessions
 
-## 09/05/24
-### The Sentinel mission
+## 23/05/24
+### Favourite RS tools
 
 ## 06/06/24
 ### Mission critical: SatML
