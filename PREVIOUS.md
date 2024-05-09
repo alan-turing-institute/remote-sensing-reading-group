@@ -4,6 +4,7 @@ This page shows a history of previous sessions in the reading group.
 
 |Date | Topic | Room | Lead |
 | --- | ----- | ---- | ---- |
+| [09/05/24](#090524) | The Sentinel Mission: an introduction to optical and radar remote sensing | David Blackwell | Thijs van der Plas & Varun Chhabra  |
 | [25/04/24](#250424) | Introduction to the reading group ([Slides](https://github.com/alan-turing-institute/remote-sensing-reading-group/blob/main/sessions/1-introduction/2024-04-25%20Intro%20meeting.pdf)) | David Blackwell | Thijs van der Plas & Varun Chhabra |
 # Material for sessions
 
