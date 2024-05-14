@@ -17,8 +17,19 @@ The group meets <b>every other week on Thursdays at 11-12</b> (odd-numbered week
 | --- | ----- | ---- | ---- |
 | [23/05/24](#060624) | Favourite RS tools round-up |  Mary Shelley | Everyone! |
 | [06/06/24](#230524) | Paper Overview: Satellite Data is a Distinct Modality in Machine Learning | David Blackwell | Tom Davies  |
-| [20/06/24](#060624) | TBD | TBD | TBD |
-| [04/07/24](#200624) | TBD | TBD | TBD |
+| [20/06/24](#060624) | TBD | David Blackwell | TBD |
+| [04/07/24](#040724) | TBD | Margaret Hamilton | TBD |
+| [18/07/24](#180724) | TBD | David Blackwell | TBD |
+| [01/08/24](#010824) | TBD | Ada Lovelace | TBD |
+| [15/08/24](#150824) | TBD | Mary Shelley | TBD |
+| [29/08/24](#290824) | TBD | David Blackwell | TBD |
+| [12/09/24](#120924) | TBD | Margaret Hamilton | TBD |
+| [26/09/24](#260924) | TBD | David Blackwell | TBD |
+| [10/10/24](#101024) | TBD | David Blackwell | TBD |
+| [07/11/24](#071124) | TBD | David Blackwell | TBD |
+| [21/11/24](#211124) | TBD | David Blackwell | TBD |
+| [05/12/24](#05124) | TBD | David Blackwell | TBD |
+| [19/12/24](#19124) | TBD | David Blackwell | TBD |
 
 
 # Material for sessions
