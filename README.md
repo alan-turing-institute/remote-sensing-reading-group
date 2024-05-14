@@ -36,7 +36,7 @@ The group meets <b>every other week on Thursdays at 11-12</b> (odd-numbered week
 
 ## 23/05/24
 ### Favourite RS tools
-
+[shared slides](https://docs.google.com/presentation/d/1Qmno358AgzKFPWJqv8awO2V6oDARzqhWvGv7k7AWvk8/edit?usp=sharing)
 ## 06/06/24
 ### Mission critical: SatML
 
