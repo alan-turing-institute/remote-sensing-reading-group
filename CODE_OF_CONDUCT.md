@@ -70,7 +70,7 @@ protected characteristics above, including participants with disabilities.
 If you experience or witness unacceptable behaviour, or have any other concerns, 
 please report it by contacting Turing HR at [hr@turing.ac.uk](mailto:hr@turing.ac.uk) and, if you 
 feel comfortable doing so, the reading group organisers and maintainers: 
-[Thijs van der Plas](mailto:vanderplas@turing.ac.uk) and [Varun Chhabra](mailto:vchhabra@turing.ac.uk).
+[Thijs van der Plas](mailto:vanderplas@turing.ac.uk) and [Varun Chhabra](mailto:vchhabra@turing.ac.uk), or alternatively [Cassandra Gould van Praag](cgouldvanpraag@turing.ac.uk) as external contact who is not involved in the group.
 
 All reports will be handled with discretion. In your report please include:
 
