@@ -15,7 +15,6 @@ The group meets <b>every other week on Thursdays at 11-12</b> (odd-numbered week
 
 |Date | Topic | Room | Lead |
 | --- | ----- | ---- | ---- |
-| [23/05/24](#060624) | Favourite RS tools round-up |  Mary Shelley | Everyone! |
 | [06/06/24](#230524) | Paper Overview: Satellite Data is a Distinct Modality in Machine Learning | David Blackwell | Tom Davies  |
 | [20/06/24](#060624) | TBD | David Blackwell | TBD |
 | [04/07/24](#040724) | TBD | Margaret Hamilton | TBD |
