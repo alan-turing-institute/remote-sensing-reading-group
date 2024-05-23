@@ -24,6 +24,10 @@ In ATI, I'm currently working in [DeepSensor](https://www.turing.ac.uk/research/
 
 - **About me:** I am a Research Data Scientist in the [Research Engineering Group](https://www.turing.ac.uk/work-turing/research/research-engineering-group) at the Turing. I am currently the main software developer for the [scivision](https://sci.vision/) project. I have been working on developing the [pixelflow tool](https://github.com/alan-turing-institute/pixelflow) (for extracting information about the characteristics of objects in images), with a particular focus on remote sensing data. Prior to joining the Turing, I worked in palaeontology studying the influence of past climate change on species distributions. 
 
+**Name:** [Barbara Metzler](https://www.turing.ac.uk/people/researchers/barbara-metzler)
+
+- **About me:** I am a Research Associate with the [Science of Cities and Regions group](https://www.turing.ac.uk/research/research-projects/science-cities-and-regions) and currently working on the [Demoland project](https://www.turing.ac.uk/research/research-projects/demoland). As part of my research, I'm leveraging foundational models and Sentinel-2 images to make predictions on environmental and social inequalities across England. During my PhD, I used unsupervised/self-supervised deep learning methods together with high-resolutions satellite images (0.3m/px) to classify urban areas in Sub-Saharan Africa.
+
 **Name:**
 
 - **About me:**
