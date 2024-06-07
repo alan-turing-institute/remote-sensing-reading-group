@@ -15,7 +15,6 @@ The group meets <b>every other week on Thursdays at 11-12</b> (odd-numbered week
 
 |Date | Topic | Room | Lead |
 | --- | ----- | ---- | ---- |
-| [30/05/24](#300524) | Paper Overview: Satellite Data is a Distinct Modality in Machine Learning | Mae Jemison | Tom Davies  |
 | [20/06/24](#200624) | Google Earth Engine workshop recap | David Blackwell | Barbara Metzler + other GEE attendees |
 | [04/07/24](#040724) | TBD | Margaret Hamilton | TBD |
 | [18/07/24](#180724) | TBD | David Blackwell | TBD |
