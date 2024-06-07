@@ -4,6 +4,8 @@ This page shows a history of previous sessions in the reading group.
 
 |Date | Topic | Room | Lead |
 | --- | ----- | ---- | ---- |
+
+| [30/05/24](#300524) | Paper Overview: Satellite Data is a Distinct Modality in Machine Learning [slides](https://github.com/alan-turing-institute/remote-sensing-reading-group/blob/main/sessions/4-distinct-modality/satml-distinct-modality.pdf) | Mae Jemison | Tom Davies  |
 | [23/05/24](#060624) | Favourite RS tools round-up [slides](https://github.com/alan-turing-institute/remote-sensing-reading-group/blob/main/sessions/3-tools/2024-05-23%20Remote%20Sensing%20reading%20group%20-%20favourite%20tools%20shared%20slides.pdf) |  Mary Shelley | Everyone! |
 | [09/05/24](#090524) | The Sentinel Mission: an introduction to optical and radar remote sensing ([slides sentinel-2](https://github.com/alan-turing-institute/remote-sensing-reading-group/blob/main/sessions/2-sentinel/2024-05-09%20RS%20group%20Sentinel%202.pdf) ) | David Blackwell | Thijs van der Plas & Varun Chhabra  |
 | [25/04/24](#250424) | Introduction to the reading group ([Slides](https://github.com/alan-turing-institute/remote-sensing-reading-group/blob/main/sessions/1-introduction/2024-04-25%20Intro%20meeting.pdf)) | David Blackwell | Thijs van der Plas & Varun Chhabra |
