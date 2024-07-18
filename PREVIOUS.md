@@ -3,6 +3,7 @@
 This page shows a history of previous sessions in the reading group. 
 
 |Date | Topic | Room | Lead |
+| --- | ----- | ---- | ---- |
 | [18/07/24](#180724) | Conference round up | David Blackwell | Thijs van der Plas + Anna Zanchetta + Barbara Metzler |
 | [20/06/24](#200624) | Google Earth Engine workshop recap | David Blackwell | Barbara Metzler + other GEE attendees |
 | [30/05/24](#300524) | Paper Overview: Satellite Data is a Distinct Modality in Machine Learning [slides](https://github.com/alan-turing-institute/remote-sensing-reading-group/blob/main/sessions/4-distinct-modality/satml-distinct-modality.pdf) | Mae Jemison | Tom Davies  |
