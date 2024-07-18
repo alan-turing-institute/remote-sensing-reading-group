@@ -15,8 +15,6 @@ The group meets <b>every other week on Thursdays at 11-12</b> (odd-numbered week
 
 |Date | Topic | Room | Lead |
 | --- | ----- | ---- | ---- |
-| [04/07/24](#040724) | TBD | Margaret Hamilton | TBD |
-| [18/07/24](#180724) | Conference round up | David Blackwell | Thijs van der Plas + Anna Zanchetta + Barbara Metzler |
 | [01/08/24](#010824) | TBD | Ada Lovelace | TBD |
 | [15/08/24](#150824) | TBD | Mary Shelley | TBD |
 | [29/08/24](#290824) | TBD | David Blackwell | TBD |
