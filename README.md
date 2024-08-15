@@ -15,11 +15,9 @@ The group meets <b>every other week on Thursdays at 11-12</b> (odd-numbered week
 
 |Date | Topic | Room | Lead |
 | --- | ----- | ---- | ---- |
-| [01/08/24](#010824) | TBD | Ada Lovelace | TBD |
-| [15/08/24](#150824) | TBD | Mary Shelley | TBD |
-| [29/08/24](#290824) | TBD | David Blackwell | TBD |
+| [29/08/24](#290824) | Summer break! |
 | [12/09/24](#120924) | TBD | Margaret Hamilton | TBD |
-| [26/09/24](#260924) | TBD | David Blackwell | TBD |
+| [26/09/24](#260924) | TBC | David Blackwell | Stephen Law |
 | [10/10/24](#101024) | TBD | David Blackwell | TBD |
 | [07/11/24](#071124) | TBD | David Blackwell | TBD |
 | [21/11/24](#211124) | TBD | David Blackwell | TBD |
