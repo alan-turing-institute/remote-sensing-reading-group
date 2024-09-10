@@ -15,8 +15,7 @@ The group meets <b>every other week on Thursdays at 11-12</b> (odd-numbered week
 
 |Date | Topic | Room | Lead |
 | --- | ----- | ---- | ---- |
-| [29/08/24](#290824) | Summer break! |
-| [12/09/24](#120924) | TBD | Margaret Hamilton | TBD |
+| [12/09/24](#120924) | SAR foundation models discussion | Margaret Hamilton | Varun Chhabra |
 | [26/09/24](#260924) | TBC | David Blackwell | Stephen Law |
 | [10/10/24](#101024) | TBD | David Blackwell | TBD |
 | [07/11/24](#071124) | TBD | David Blackwell | TBD |
