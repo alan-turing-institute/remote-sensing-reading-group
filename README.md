@@ -15,8 +15,7 @@ The group meets <b>every other week on Thursdays at 11-12</b> (odd-numbered week
 
 |Date | Topic | Room | Lead |
 | --- | ----- | ---- | ---- |
-| [12/09/24](#120924) | SAR foundation models discussion | Margaret Hamilton | Varun Chhabra |
-| [26/09/24](#260924) | TBC | David Blackwell | Stephen Law |
+| [26/09/24](#260924) **10:30 - 11:30**| TBC | Turingery (4th floor) | Stephen Law |
 | [10/10/24](#101024) | TBD | David Blackwell | TBD |
 | [07/11/24](#071124) | TBD | David Blackwell | TBD |
 | [21/11/24](#211124) | TBD | David Blackwell | TBD |
