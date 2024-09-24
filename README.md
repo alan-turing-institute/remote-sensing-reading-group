@@ -15,7 +15,7 @@ The group meets <b>every other week on Thursdays at 11-12</b> (odd-numbered week
 
 |Date | Topic | Room | Lead |
 | --- | ----- | ---- | ---- |
-| [26/09/24](#260924) **10:30 - 11:30**| TBC | Turingery (4th floor) | Stephen Law |
+| [26/09/24](#260924) **10:30 - 11:30**| Explaining Holistic Image Regressors/Classifiers in Urban Analytics with Plausible Counterfactuals | Turingery (4th floor) | Stephen Law |
 | [10/10/24](#101024) | TBD | David Blackwell | TBD |
 | [24/10/24](#101024) | TBD | David Blackwell | TBD |
 | [07/11/24](#071124) | TBD | David Blackwell | TBD |
