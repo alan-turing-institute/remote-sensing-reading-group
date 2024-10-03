@@ -21,8 +21,8 @@ The group meets <b>every other week on Thursdays at 11-12</b> (odd-numbered week
 | [10/10/24](#101024) | TBD | David Blackwell | TBD |
 | [24/10/24](#101024) | TBD | David Blackwell | TBD |
 | [07/11/24](#071124) | TBD | David Blackwell | TBD |
-| [21/11/24](#211124) | TBD | David Blackwell | TBD |
-| [05/12/24](#05124) | Lightweight, Pre-trained Transformers for Remote Sensing Timeseries [tentative] | David Blackwell | Gabriel Tseng (McGill/Mila/NASA Harvest) |
+| [21/11/24](#211124) | Predicting urban fabric with the Clay foundation model [tentative] | David Blackwell | Barbara Metzler (Turing) |
+| [05/12/24](#05124) | Lightweight, pre-trained transformers for remote sensing timeseries [tentative] | David Blackwell | Gabriel Tseng (McGill/Mila/NASA Harvest) |
 | [19/12/24](#19124) | TBD | David Blackwell | TBD |
 
 
