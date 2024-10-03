@@ -11,6 +11,8 @@ If you're based at the Turing, follow `#remote-sensing` on the Turing Slack for 
 
 The group meets <b>every other week on Thursdays at 11-12</b> (odd-numbered weeks). Everyone is welcome to join! If you have any questions email [Thijs](mailto:t.vanderplas@turing.ac.uk) or [Varun](mailto:vchhabra@turing.ac.uk). As a Turing-organised event, we expect everyone to follow the [Turing code of conduct](https://www.turing.ac.uk/events/policies-and-guidelines), and we also ask everyone to go through our reading group [Code of Conduct](CodeOfConduct.md).
 
+**Zoom room:** Pinned to the top of Slack channel, or ask Thijs or Varun.
+
 ## Upcoming Schedule
 
 |Date | Topic | Room | Lead |
