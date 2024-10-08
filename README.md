@@ -18,8 +18,8 @@ The group meets <b>every other week on Thursdays at 11-12</b> (odd-numbered week
 |Date | Topic | Room | Lead |
 | --- | ----- | ---- | ---- |
 | [26/09/24](#260924) **10:30 - 11:30**| Explaining Holistic Image Regressors/Classifiers in Urban Analytics with Plausible Counterfactuals | Turingery (4th floor) | Stephen Law (UCL) |
-| [10/10/24](#101024) | TBD | David Blackwell | TBD |
-| [24/10/24](#101024) | TBD | David Blackwell | TBD |
+| [10/10/24](#101024) | TBC | David Blackwell | Varun Chhabra |
+| [24/10/24](#101024) | METEOR paper: “Meta-learning to address diverse Earth observation problems across resolutions” | David Blackwell | Thijs van der Plas |
 | [07/11/24](#071124) | TBD | David Blackwell | TBD |
 | [21/11/24](#211124) | Predicting urban fabric with the Clay foundation model [tentative] | David Blackwell | Barbara Metzler (Turing) |
 | [05/12/24](#05124) | Lightweight, pre-trained transformers for remote sensing timeseries [tentative] | David Blackwell | Gabriel Tseng (McGill/Mila/NASA Harvest) |
