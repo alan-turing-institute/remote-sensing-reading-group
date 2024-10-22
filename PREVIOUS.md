@@ -4,6 +4,7 @@ This page shows a history of previous sessions in the reading group.
 
 |Date | Topic | Room | Lead |
 | --- | ----- | ---- | ---- |
+| [26/09/24](#260924) **10:30 - 11:30**| Explaining Holistic Image Regressors/Classifiers in Urban Analytics with Plausible Counterfactuals | Turingery (4th floor) | Stephen Law (UCL) |
 | [12/09/24](#120924) | SAR foundation models discussion | Margaret Hamilton | Varun Chhabra |
 | [18/07/24](#180724) | Conference round up | David Blackwell | Thijs van der Plas + Anna Zanchetta + Barbara Metzler |
 | [20/06/24](#200624) | Google Earth Engine workshop recap | David Blackwell | Barbara Metzler + other GEE attendees |
