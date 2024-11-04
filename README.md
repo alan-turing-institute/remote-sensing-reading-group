@@ -17,8 +17,7 @@ The group meets <b>every other week on Thursdays at 11-12</b> (odd-numbered week
 
 |Date | Topic | Room | Lead |
 | --- | ----- | ---- | ---- |
-| [24/10/24](#101024) | Predicting cloud cover and solar energy generation [tentative] | David Blackwell | Natalia Efremova (Turing) |
-| [07/11/24](#071124) | TBA! | Enigma | TBA! |
+| [07/11/24](#071124) | Geospatial foundation models for applications in sustainability and security | Enigma | Bruno Sánchez-Andrade Nuño (Clay) |
 | [21/11/24](#211124) | Predicting urban fabric with the Clay foundation model [tentative] | David Blackwell | Barbara Metzler (Turing) |
 | [05/12/24](#05124) | Lightweight, pre-trained transformers for remote sensing timeseries [tentative] | David Blackwell | Gabriel Tseng (McGill/Mila/NASA Harvest) |
 | [19/12/24](#19124) | TBD | David Blackwell | TBD |
