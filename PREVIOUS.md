@@ -4,6 +4,7 @@ This page shows a history of previous sessions in the reading group.
 
 |Date | Topic | Room | Lead |
 | --- | ----- | ---- | ---- |
+| [21/11/24](#211124) | From pixels to planning: Foundation models in urban analytics | David Blackwell | Barbara Metzler (Turing) |
 | [07/11/24](#071124) | Geospatial foundation models for applications in sustainability and security | Enigma | Bruno Sánchez-Andrade Nuño (Clay) |
 | [24/10/24](#101024) | Predicting cloud cover and solar energy generation | David Blackwell | Natalia Efremova (Turing) |
 | [26/09/24](#260924) **10:30 - 11:30**| Explaining Holistic Image Regressors/Classifiers in Urban Analytics with Plausible Counterfactuals | Turingery (4th floor) | Stephen Law (UCL) |
