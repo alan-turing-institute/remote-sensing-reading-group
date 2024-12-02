@@ -17,8 +17,7 @@ The group meets <b>every other week on Thursdays at 11-12</b> (odd-numbered week
 
 |Date | Topic | Room | Lead |
 | --- | ----- | ---- | ---- |
-| [21/11/24](#211124) | From pixels to planning: Foundation models in urban analytics | David Blackwell | Barbara Metzler (Turing) |
-| [05/12/24](#05124) | Lightweight, pre-trained transformers for remote sensing timeseries [tentative] | David Blackwell | Gabriel Tseng (McGill/Mila/NASA Harvest) |
+| [05/12/24](#05124) | Developing and deploying pre-trained remote sensing models | David Blackwell | Gabriel Tseng (McGill/Mila/NASA Harvest) |
 | [19/12/24](#19124) | TBD | David Blackwell | TBD |
 
 
