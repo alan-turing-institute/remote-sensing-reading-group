@@ -17,8 +17,7 @@ The group meets <b>every other week on Thursdays at 11-12</b> (odd-numbered week
 
 |Date | Topic | Room | Lead |
 | --- | ----- | ---- | ---- |
-| [05/12/24](#05124) | Developing and deploying pre-trained remote sensing models | David Blackwell | Gabriel Tseng (McGill/Mila/NASA Harvest) |
-| [19/12/24](#19124) | TBD | David Blackwell | TBD |
+| [16/01/25](#160125) | TBD | David Blackwell | TBD |
 
 
 Material for sessions can be found in the `sessions/` folder.
