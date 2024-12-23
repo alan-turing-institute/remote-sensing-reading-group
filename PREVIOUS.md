@@ -4,7 +4,6 @@ This page shows a history of previous sessions in the reading group.
 
 |Date | Topic | Room | Lead |
 | --- | ----- | ---- | ---- |
-
 | [05/12/24](#05124) | Developing and deploying pre-trained remote sensing models | David Blackwell | Gabriel Tseng (McGill/Mila/NASA Harvest) |
 | [21/11/24](#211124) | From pixels to planning: Foundation models in urban analytics | David Blackwell | Barbara Metzler (Turing) |
 | [07/11/24](#071124) | Geospatial foundation models for applications in sustainability and security | Enigma | Bruno Sánchez-Andrade Nuño (Clay) |
