@@ -17,7 +17,7 @@ The group meets <b>every other week on Thursdays at 11-12</b> (odd-numbered week
 
 |Date | Topic | Room | Lead |
 | --- | ----- | ---- | ---- |
-| [16/01/25](#160125) | TBD | David Blackwell | TBD |
+| [13/02/25](#130225) | TBD | David Blackwell | TBD |
 
 
 Material for sessions can be found in the `sessions/` folder.
